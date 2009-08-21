@@ -1,0 +1,4 @@
+h1. The Dual Nature of matter
+
+
+Uses http://mojombo.github.com as the source and uses http://github.com/mojombo/jekyll to generate the static content
