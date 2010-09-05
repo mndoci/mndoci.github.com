@@ -1,4 +1,4 @@
-h1. Deepak Singh's Github
+h1. Deepak Singh's Github Page
 
 
 Started this from http://mojombo.github.com as the source.  Goal is to move my personal portal and Wiki to Github
