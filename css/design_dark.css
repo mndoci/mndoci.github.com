@@ -1,0 +1,55 @@
+body {
+        font: small/1.6em 'Lucida Grande', Verdana, Arial, Sans-Serif; /* Resets 1em to 10px */
+        color: #eee;
+        background: #EDEDED;
+        text-align: center;
+        margin: 0 0 10px;
+        }
+
+.page {
+        background: black;
+        text-align: left;
+        margin: 0 auto;
+        padding: 10px 20px 0 10px;
+        position: relative;
+        width: 780px;
+        border: 1px solid #ddd;
+        border-top: none;
+        }
+
+#header {
+        padding: 0;
+        margin: 0;
+        position: relative;
+        height: 30px;
+        background: #EDEDED;
+}
+
+
+h1, h2 {
+  color:               #ff7e7e;
+}
+
+h1 {
+  font-size:           150%;
+}
+
+h2 {
+  font-size:           130%;
+}
+
+
+#footer {
+  font-size:           50%;
+  text-align:          center;
+  line-height:         normal;
+  margin-top:          30px;
+}
+
+a:link {
+  color:               #dd7e7e;
+}
+
+a:visited {
+  color:               #aaaaaa;
+}
